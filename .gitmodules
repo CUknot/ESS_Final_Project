@@ -1,0 +1,6 @@
+[submodule "CEE_final_project_frontend"]
+	path = CEE_final_project_frontend
+	url = https://github.com/KornSurapat/CEE_final_project_group_13_frontend.git
+[submodule "CEE_final_project_backend"]
+	path = CEE_final_project_backend
+	url = https://github.com/KornSurapat/CEE_final_project_group_13_backend.git
